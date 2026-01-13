@@ -1,4 +1,4 @@
-package com.lalitp.user.service.UserService;
+package com.lalitp.user.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
