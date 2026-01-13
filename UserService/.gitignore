@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Build folders
+target/
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
