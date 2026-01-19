@@ -22,7 +22,7 @@ const handleSubmit = async (e) => {
         alert("User Created Successfully!");
         navigate('/users');
     } catch (error) {
-        alert("बॅकेंड एरर: " + error.message);
+        alert("Backend Error " + error.message);
     }
 };
 
